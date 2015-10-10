@@ -2,6 +2,6 @@
 
 learned from [Simple](https://github.com/isnowfy/simple)
 
-sign in from http://isnowfy.github.io/simple
+login from http://sglzs.github.io/login
 
 my blog address http://sglzs.github.io
